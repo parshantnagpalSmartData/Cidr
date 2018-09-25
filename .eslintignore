@@ -1,0 +1,7 @@
+updated_modules/*
+node_modules/*
+.eslintignore
+package.json
+package-lock.json
+index.js
+app.json
